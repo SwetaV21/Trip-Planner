@@ -9,7 +9,7 @@ First, fork the repository to your GitHub account. You can do this by clicking t
 Next, clone the forked repository to your local machine. Open a terminal and run the following command:
 
 ```bash
-git clone https://github.com/DeepeshKalura/Trip-Planner
+git clone https://github.com/SwetaVarshney/Trip-Planner
 ```
 
 This will create a local copy of the repository on your machine.
